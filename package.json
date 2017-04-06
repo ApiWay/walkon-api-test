@@ -4,11 +4,15 @@
   "description": "MochaJS based TC for WalkOn service",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --reporter mochawesome"
+  },
+  "dependencies": {
+    "mocha": ">=3.0.0",
+    "mochawesome": ">=2.0.2"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bluehackmaster/walkon-api-test.git"
+    "url": "git+https://github.com/ApiWay/walkon-api-test.git"
   },
   "keywords": [
     "mocha",
@@ -20,9 +24,9 @@
     "apiway"
   ],
   "author": "master@bluehack.net",
-  "license": "ISC",
+  "license": "Apache License 2.0",
   "bugs": {
-    "url": "https://github.com/bluehackmaster/walkon-api-test/issues"
+    "url": "https://github.com/ApiWay/walkon-api-test/issues"
   },
-  "homepage": "https://github.com/bluehackmaster/walkon-api-test#readme"
+  "homepage": "https://github.com/ApiWay/walkon-api-test#readme"
 }
