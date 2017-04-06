@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "mocha": ">=3.0.0",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
     "mochawesome": ">=2.0.2"
   },
   "repository": {
