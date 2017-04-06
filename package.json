@@ -1,0 +1,28 @@
+{
+  "name": "walkon-api-test",
+  "version": "0.0.1",
+  "description": "MochaJS based TC for WalkOn service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluehackmaster/walkon-api-test.git"
+  },
+  "keywords": [
+    "mocha",
+    "mochajs",
+    "api",
+    "test",
+    "unit",
+    "test",
+    "apiway"
+  ],
+  "author": "master@bluehack.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluehackmaster/walkon-api-test/issues"
+  },
+  "homepage": "https://github.com/bluehackmaster/walkon-api-test#readme"
+}
