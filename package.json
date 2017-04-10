@@ -27,7 +27,7 @@
     "apiway"
   ],
   "author": "master@bluehack.net",
-  "license": "Apache License 2.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ApiWay/walkon-api-test/issues"
   },
