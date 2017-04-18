@@ -1,0 +1,36 @@
+{
+  "name": "walkon-api-test",
+  "version": "0.0.1",
+  "description": "MochaJS based TC for WalkOn service",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter mochawesome"
+  },
+  "dependencies": {
+    "mocha": ">=3.0.0",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "mochawesome": ">=2.0.2",
+    "commander":"^2.9.0",
+    "aws-api-gateway-client": ">=0.1.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ApiWay/walkon-api-test.git"
+  },
+  "keywords": [
+    "mocha",
+    "mochajs",
+    "api",
+    "test",
+    "unit",
+    "test",
+    "apiway"
+  ],
+  "author": "master@bluehack.net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ApiWay/walkon-api-test/issues"
+  },
+  "homepage": "https://github.com/ApiWay/walkon-api-test#readme"
+}
